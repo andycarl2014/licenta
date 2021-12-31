@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/licenta/static/js/main.2240d463.js",
+    "main.js": "/licenta/static/js/main.b1d7b950.js",
     "index.html": "/licenta/index.html",
-    "main.2240d463.js.map": "/licenta/static/js/main.2240d463.js.map"
+    "main.b1d7b950.js.map": "/licenta/static/js/main.b1d7b950.js.map"
   },
   "entrypoints": [
-    "static/js/main.2240d463.js"
+    "static/js/main.b1d7b950.js"
   ]
 }
