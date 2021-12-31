@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/licenta/static/js/main.e550f2d9.js",
+    "main.css": "/licenta/static/css/main.3d200c1f.css",
+    "main.js": "/licenta/static/js/main.ffe9c4d4.js",
     "index.html": "/licenta/index.html",
-    "main.e550f2d9.js.map": "/licenta/static/js/main.e550f2d9.js.map"
+    "main.3d200c1f.css.map": "/licenta/static/css/main.3d200c1f.css.map",
+    "main.ffe9c4d4.js.map": "/licenta/static/js/main.ffe9c4d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.e550f2d9.js"
+    "static/css/main.3d200c1f.css",
+    "static/js/main.ffe9c4d4.js"
   ]
 }
